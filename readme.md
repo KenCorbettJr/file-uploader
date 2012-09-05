@@ -1,4 +1,4 @@
-### Fine Uploader ###
+# Fine Uploader #
 
 Originally developed/designed by Andrew Valums.<br/>
 Currently maintained by Ray Nicholus.
@@ -16,7 +16,7 @@ We would love developers to contribute any improvements and bugfixes they produc
 See [How do I contribute to other's code in GitHub?](http://stackoverflow.com/questions/4384776/how-do-i-contribute-to-others-code-in-github).
 
 
-**Table of Contents**
+## Table of Contents ##
 - [Summary](#summary)
 - [Features](#features)
 - [License](#license)
